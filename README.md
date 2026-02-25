@@ -10,3 +10,8 @@ Catalase gene files "KatG.zip," "KatE.zip," and "Manganese_catalase.zip" include
 
 # Single copy core gene (SCG) zip files
 Single copy core gene files "SCG..." include 9 single copy core gene abundance matrix and environmental         parameter output files from Tara Oceans Gene Atlas metagenomics query as well as hmm files used for the         query.
+
+# Alteromonas files
+Code file used to make Alteromonas figures.
+Blast results from Alteromonas catalase query including raw blast output, blast hits, and number of catalase hits per Alteromonas genome or MAG.
+Phylogenetic Tree output including RAxML results, tree files, aligned amino acid sequence FASTA file, and code files.
