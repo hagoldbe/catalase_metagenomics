@@ -3,7 +3,7 @@ Code and intermediate data files accompanying study "Forces shaping diversity of
 
 
 # Code Files
-"CATALASE_ARCHIVE_FINAL.Rmd": R code used to generate visualizations and perform statistical analyses.
+"CATALASE_ARCHIVE_FINAL.Rmd": R code used to generate visualizations and perform statistical analyses for environmental metagenome and MAG samples.
     
 # Catalase gene zip files 
 Catalase gene files "KatG.zip," "KatE.zip," and "Manganese_catalase.zip" include abundance matrix and           environmental parameter output files from Tara Oceans Gene Atlas metagenomics query as well as hmm files        used for the query and hmmer output file from MAGs query using Microbiomics database.
