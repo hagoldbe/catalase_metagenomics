@@ -14,4 +14,4 @@ Single copy core gene files "SCG..." include 9 single copy core gene abundance m
 # Alteromonas files
 Code file used to make Alteromonas figures.
 Blast results from Alteromonas catalase query including raw blast output, blast hits, and number of catalase hits per Alteromonas genome or MAG.
-Phylogenetic Tree output including RAxML results, tree files, aligned amino acid sequence FASTA file, and code files. Files produced and provided by coauthor produced by Michelle. A. DeMers.
+Phylogenetic Tree output including RAxML results, tree files, aligned amino acid sequence FASTA file, and code files. Files produced and provided by coauthor produced by Michelle A. DeMers.
